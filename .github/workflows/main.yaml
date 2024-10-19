@@ -29,6 +29,7 @@ jobs:
         uses: jakejarvis/s3-sync-action@master
         with:
           args: --acl public-read
+          bucket-region: ap-south-2
         env:
           SOURCE_DIR: build/
           AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
