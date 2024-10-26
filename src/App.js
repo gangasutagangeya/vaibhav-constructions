@@ -1,5 +1,6 @@
 import logo from "./logo.png";
 import apartmentLogo from "./apartmentLogo.png";
+import Navbar from "./components/navbar";
 
 export default function App() {
   return (
