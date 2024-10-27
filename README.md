@@ -68,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Color Gradient designer
+
+[https://eltos.github.io/gradient/#Random%20gradient%203208=0:4B212B-5:4D222D-10:4F232E-15:522430-20:542531-25:562632-30:592834-40:5D2A37-50:612C3A-60:662F3D-70:6B3240](https://eltos.github.io/gradient/#Random%20gradient%203208=0:4B212B-5:4D222D-10:4F232E-15:522430-20:542531-25:562632-30:592834-40:5D2A37-50:612C3A-60:662F3D-70:6B3240)
