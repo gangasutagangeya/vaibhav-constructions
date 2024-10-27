@@ -3,10 +3,7 @@ export default function Navbar() {
   return (
     <nav class="block w-full px-4 py-4 mx-auto bg-white bg-opacity-90 sticky top-3 shadow">
       <div class="container flex flex-wrap items-center justify-between mx-auto text-slate-800">
-        <a
-          href="#"
-          class="mr-4 block cursor-pointer py-1.5 text-base text-slate-800 font-bold"
-        >
+        <a class="mr-4 block cursor-pointer py-1.5 text-base text-slate-800 font-bold">
           Vaibhav Towers
         </a>
         <div class="hidden lg:block">
@@ -17,19 +14,13 @@ export default function Navbar() {
               </a>
             </li>
             <li class="flex items-center p-1 text-sm gap-x-2 text-slate-600">
-              <a href="#" class="flex items-center">
-                About
-              </a>
+              <a class="flex items-center">About</a>
             </li>
             <li class="flex items-center p-1 text-sm gap-x-2 text-slate-600">
-              <a href="#" class="flex items-center">
-                Amenities
-              </a>
+              <a class="flex items-center">Amenities</a>
             </li>
             <li class="flex items-center p-1 text-sm gap-x-2 text-slate-600">
-              <a href="#" class="flex items-center">
-                Club House
-              </a>
+              <a class="flex items-center">Club House</a>
             </li>
             <li class="flex items-center p-1 text-sm gap-x-2 text-slate-600">
               <a href="#floor-plan" class="flex items-center">
@@ -37,9 +28,7 @@ export default function Navbar() {
               </a>
             </li>
             <li class="flex items-center p-1 text-sm gap-x-2 text-slate-600">
-              <a href="#" class="flex items-center">
-                Price
-              </a>
+              <a class="flex items-center">Price</a>
             </li>
             <li class="flex items-center p-1 text-sm gap-x-2 text-slate-600">
               <a href="#apartment-location" class="flex items-center">

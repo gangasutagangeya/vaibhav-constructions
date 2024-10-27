@@ -1,6 +1,3 @@
-import logo from "./assets/img/logo.png";
-import apartmentLogo from "./assets/img/apartmentLogo.png";
-import frontView from "./assets/img/frontView.png";
 import Navbar from "./components/navbar";
 import MainBanner from "./components/MainBanner";
 import FloorPlan from "./components/FloorPlan";
